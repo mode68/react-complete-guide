@@ -42,7 +42,7 @@ const cockpit = (props) => {
                 onClick={props.clicked}>
                 Toggle Persons
             </button>
-            <button onClick={authContext.login}>Log in</button>}
+            <button onClick={authContext.login}>Log in</button>
         </div>
     );
 }
